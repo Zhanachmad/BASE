@@ -164,7 +164,7 @@ if __name__ == '__main__':
 	print("")
 	print("//////////////////////////////////////////////////////////////////")
 	print("//                      Layer 7 Attack                          //")                
-	print("//          [+] BRIGADE ATTACKER SNIOER ELITE [+]               //")                
+	print("//          [+] BRIGADE ATTACKER SNIPER ELITE [+]               //")                
 	print("//                     :: BASETOOL ::                           //")         
 	print("//////////////////////////////////////////////////////////////////")
 	print("")
